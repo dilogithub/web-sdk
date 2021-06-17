@@ -1,5 +1,3 @@
-# Web SDK Guide
-
 # README
 
 ---
